@@ -3,5 +3,6 @@
 .rstudio/
 .local/
 R/.Rhistory
+config/config.yaml
 *.csv
 *.html
