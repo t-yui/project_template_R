@@ -19,4 +19,7 @@ $ git commit -m ":tada: first commit"
 $ git branch -M master
 $ git remote add origin [登録先のリモートリポジトリのURL]
 $ git push -u origin master
+
+# セットアップ
+$ ./setup.sh
 ```
